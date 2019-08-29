@@ -1,0 +1,5 @@
+insert into student values (101, 'Maths', 'Bob')
+insert into student values (102, 'Maths', 'King')
+insert into student values (103, 'Biology', 'Rita')
+insert into student values (104, 'History', 'Olga')
+insert into student values (105, 'History', 'Lance')
